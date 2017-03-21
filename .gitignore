@@ -41,3 +41,7 @@ captures/
 #idea
 .idea
 .idea/
+#google services
+app/google-services.json
+
+app/google-services.json
